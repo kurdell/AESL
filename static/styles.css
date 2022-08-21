@@ -35,12 +35,18 @@
     body {
       margin-bottom: 700px;
     }
+    
     .footer {
       height: 700px;
     }
+
     .banner-img {
       background-image: url('/static/Hero_small.png');
-  }
+    }
+
+    #mission_hide{
+      display:none;
+    }
   }
 
 /* Footer styling */
@@ -48,7 +54,7 @@
 
 body {
     font-family: 'Alegreya Sans', sans-serif;
-}
+  }
 
 /* Sticky footer position and size
 -------------------------------------------------- */
